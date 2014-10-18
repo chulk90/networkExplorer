@@ -1,0 +1,21 @@
+Facebook API
+
+Access Token: CAACEdEose0cBANtNZCp81P0sZC2V6l7mAUzIyURZAZAx0ogBpKeIlVjErzRnyndOZCslwWc4THIOTx6ZBFP7eikIOC2jDlDzQvPG5bLWo00Bermqhf92aZCvNrI56Ffd1LjO4fLpHaCHRH1upspiyq6C4uKerRpVMJtsI4Bdcol8iJIBezMJQe5UwZBgTyz2HUSvue3uiUAvJuuiJ4jIzvSqXQtPKsNh9MwZD
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '338731669638424',
+      xfbml      : true,
+      version    : 'v2.1'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
