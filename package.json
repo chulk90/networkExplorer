@@ -10,6 +10,6 @@
     "express": "3.4.8",
     "http": "*",
     "socket.io": "*",
-    "jade": "*"
+    "facebook-node-sdk": "*"
   }
 }
