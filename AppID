@@ -19,3 +19,8 @@ Access Token: CAACEdEose0cBANtNZCp81P0sZC2V6l7mAUzIyURZAZAx0ogBpKeIlVjErzRnyndOZ
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+
+--
+IBM Bluemix
+
+cf login -a https://agi.ng.bluemix.net

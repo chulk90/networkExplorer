@@ -1,0 +1,7 @@
+apps dashboard
+rectangle ->bottom
+show credentials
+vcap_services
+
+access vcap_services env var
+url
