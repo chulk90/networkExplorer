@@ -1,0 +1,11 @@
+---
+applications:
+- name: NetworkExplorer
+  host: chulk90-networkExplorer
+  domain: mybluemix.net
+  path: ./
+  command: node app.js
+#  env:
+#  	NODE_ENV: production
+  services:
+  - MongoLab-dy
