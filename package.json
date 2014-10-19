@@ -1,7 +1,7 @@
 {
   "name": "application-name",
   "version": "0.0.1",
-  "description": "Explore your alumni network ina new city."
+  "description": "Explore your alumni network ina new city.",
   "private": true,
   "scripts": {
     "start": "node app.js"
